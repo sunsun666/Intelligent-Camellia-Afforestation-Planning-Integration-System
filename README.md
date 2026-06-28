@@ -1,1 +1,2 @@
 # Intelligent-Camellia-Afforestation-Planning-Integration-System
+本研究的案例展示中：标准化数据库构建模块依托 ArcGIS Pro 内置 ArcPy 脚本工具完成流程演示；外业智能采集、数据逻辑校验、林地立地条件智能评价等移动端业务功能，基于开源地理信息移动软件 QField 实现操作流程展示；作业设计成果自动生成与导出模块，以开源 Python 编程语言为底层开发框架完成程序编译与功能实现。需特别说明：附件所展示的案例仅用于相关系统功能的效果演示，各模块尚未完成统一集成，系统完整交互逻辑、界面呈现与实际运行性能均以本系统正式上线后的一体化集成版本为准。本附件涉及文件及相关的代码等材料可在https://github.com/sunsun666/Intelligent-Camellia-Afforestation-Planning-Integration-System下载和学习（未经授权，不得用于盈利性经营活动）。
